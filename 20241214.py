@@ -19,7 +19,3 @@ def hello():
     return 'hello'
 '''
 
-## Links and Images
-[Google](https://www.google.com)
-![](https://www.globalcosmeticsnews.com/wp-content/uploads/2020/04/Google.png)
-
