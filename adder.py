@@ -1,3 +1,3 @@
 #add def
-def add(a,b)
+def adder(i,b)
     return a+b
